@@ -1,0 +1,42 @@
+body {    
+    background-color: #c5cb97;
+    font-family: monospace;
+}
+.nav_bar {
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+}
+.col-12 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    background: url(../image/logo1.png) no-repeat center center;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+
+}
+.my_photo{
+    background: url(../image/my_photo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 50%;
+    height: 100%;
+}
+.zh{
+    font-weight: bold;
+}
